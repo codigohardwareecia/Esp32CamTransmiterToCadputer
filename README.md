@@ -125,7 +125,7 @@ void loop() {
 }
 ```
 
-Este código deve ser gravado no Cardputer ADV
+Este código deve ser gravado no Cardputer ADV, tem que instalar TJpg_Decoder na Lib Manager
 ```
 #include "M5Cardputer.h"
 #include <WiFi.h>
