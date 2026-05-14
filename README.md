@@ -1,4 +1,4 @@
-O código está funcional mas os detalhes da implementação vou colocar aqui ainda
+O código está funcional mas os detalhes da implementação vou colocar aqui ainda e vou dar uma limpaa no código depois
 
 Este código deve ser gravado no ESP32CAM MB
 ```
