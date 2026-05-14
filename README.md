@@ -1,5 +1,6 @@
 O código está funcional mas os detalhes da implementação vou colocar aqui ainda
 
+Este código deve ser gravado no ESP32CAM MB
 ```
 #include "esp_camera.h"
 #include <WiFi.h>
@@ -124,7 +125,7 @@ void loop() {
 }
 ```
 
-
+Este código deve ser gravado no Cardputer ADV
 ```
 #include "M5Cardputer.h"
 #include <WiFi.h>
