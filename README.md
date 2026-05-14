@@ -6,7 +6,7 @@ Este código deve ser gravado no ESP32CAM MB
 #include <WiFi.h>
 #include "esp_http_server.h" // Importante estar aqui em cima!
 
-// Configurações dos pinos para o modelo AI THINKER
+// Configurações dos pinos 
 #define PWDN_GPIO_NUM     32
 #define RESET_GPIO_NUM    -1
 #define XCLK_GPIO_NUM      0
